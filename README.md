@@ -170,7 +170,7 @@ Estratégia futura: Diariamente (autocorreção contínua)
 
 Execução fora do horário comercial
 
-![Imagem](https://github.com/brunomiller88/intune-defender-sensor-remediation/blob/main/0007.png)
+![Imagem](https://github.com/brunomiller88/intune-defender-sensor-remediation/blob/main/0008.png)
 
 
 ✅ Resultados Obtidos
