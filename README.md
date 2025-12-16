@@ -125,14 +125,15 @@ Retorna:
 1 → Sensor inativo (aciona correção)
 
 🛠️ Script de Correção
-
+https://github.com/brunomiller88/intune-defender-sensor-remediation/blob/main/%23%20Remediate-MDE-Offboard.ps1
 Arquivo: Remediate-MDE-Offboard.ps1
 Inserir script de correção
 Função:
 
 Executa o offboard oficial do Microsoft Defender for Endpoint
 
-Utiliza o script oficial:
+Utiliza o script oficial(coletado no windows Defender):
+![Imagem](https://github.com/brunomiller88/intune-defender-sensor-remediation/blob/main/00010.png)
 
 WindowsDefenderATPOffboardingScript.cmd
 
