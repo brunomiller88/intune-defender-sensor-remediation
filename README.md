@@ -77,7 +77,8 @@ Membros: Dispositivos
 
 Esse grupo serve como alvo exclusivo da remediação.
 
-📸 Inserir print da criação do grupo no Entra ID 0002
+![Imagem](https://github.com/brunomiller88/intune-defender-sensor-remediation/blob/main/0002.png)
+
 
 📥 Etapa 3 – Inclusão de Dispositivos em Lote (PowerShell + Graph)
 
@@ -98,9 +99,11 @@ Add-DevicesToEntraGroup.ps1
 
 Durante a execução, foi realizada autenticação interativa no Microsoft Graph.
 
-📸 Inserir print da execução do script e autenticação Graph 0003
+![Imagem](https://github.com/brunomiller88/intune-defender-sensor-remediation/blob/main/0003.png)
 
-0004
+
+![Imagem](https://github.com/brunomiller88/intune-defender-sensor-remediation/blob/main/0004.png)
+
 
 🧪 Etapa 4 – Scripts de Detecção e Correção
 🔍 Script de Detecção
@@ -134,7 +137,8 @@ Permite que o Intune realize o re-onboarding automático
 
 Executado como SYSTEM e em PowerShell 64 bits
 
-📸 Inserir print da pasta com os scripts 0005
+![Imagem](https://github.com/brunomiller88/intune-defender-sensor-remediation/blob/main/0005.png)
+
 
 ⚙️ Etapa 5 – Criação da Remediação no Microsoft Intune
 
@@ -153,8 +157,8 @@ Executar como usuário: Não
 Assinatura obrigatória: Não
 
 PowerShell 64 bits: Sim
+![Imagem](https://github.com/brunomiller88/intune-defender-sensor-remediation/blob/main/0006.png)
 
-📸 Inserir print da tela de configurações do Intune 0006
 
 🎯 Atribuição e Agendamento
 
@@ -166,7 +170,8 @@ Estratégia futura: Diariamente (autocorreção contínua)
 
 Execução fora do horário comercial
 
-📸 Inserir print da tela de atribuições e agendamento 0007
+![Imagem](https://github.com/brunomiller88/intune-defender-sensor-remediation/blob/main/0007.png)
+
 
 ✅ Resultados Obtidos
 
