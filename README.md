@@ -60,7 +60,8 @@ Comparação case-insensitive (maiúsculas/minúsculas)
 
 O resultado foi um arquivo CSV contendo apenas os dispositivos com inconsistência.
 
-📸 Inserir print das planilhas / CSV resultante 0001
+![Imagem](https://github.com/brunomiller88/intune-defender-sensor-remediation/blob/main/0001.png)
+
 
 👥 Etapa 2 – Criação do Grupo no Microsoft Entra ID
 
