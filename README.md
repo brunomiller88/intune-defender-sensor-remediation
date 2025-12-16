@@ -137,7 +137,7 @@ Permite que o Intune realize o re-onboarding automático
 
 Executado como SYSTEM e em PowerShell 64 bits
 
-![Imagem](https://github.com/brunomiller88/intune-defender-sensor-remediation/blob/main/0005.png)
+![Imagem](https://github.com/brunomiller88/intune-defender-sensor-remediation/blob/main/0009.png)
 
 
 ⚙️ Etapa 5 – Criação da Remediação no Microsoft Intune
