@@ -108,7 +108,11 @@ Durante a execução, foi realizada autenticação interativa no Microsoft Graph
 🧪 Etapa 4 – Scripts de Detecção e Correção
 🔍 Script de Detecção
 
-Arquivo: Detect-MDE-Sensor.ps1 (inserir script de detecção)
+
+Arquivo: Detect-MDE-Sensor.ps1 
+[Detect-MDE-Sensor.ps1](https://github.com/brunomiller88/intune-defender-sensor-remediation/blob/main/%23%20Detect-MDE-Sensor.ps1)
+
+
 
 Função:
 
